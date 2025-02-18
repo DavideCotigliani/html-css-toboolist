@@ -1,0 +1,12 @@
+.inline-block{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    
+}
+header{
+    background-color: white;
+}
+.v-align-middle{
+    vertical-align: middle;
+}
