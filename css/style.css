@@ -43,6 +43,8 @@ main{
     color: grey;
     display: inline-block;
 }
+
+
 .arrow {
     border: solid black;
     border-width: 0 3px 3px 0;
@@ -70,6 +72,53 @@ main{
     color: white;
     display: inline-block;
     
+  }
+
+  .q1goals{
+    background-color: rgb(255, 0, 179);
+    border: 1px solid black;
+    border-radius: 10%;
+    box-sizing: border-box;
+    padding: 10px 35px;
+    color: white;
+    display: inline-block;
+  }
+  .orangerecruiting{
+    background-color: rgb(61, 156, 24);
+    border: 1px solid black;
+    border-radius: 10%;
+    box-sizing: border-box;
+    padding: 10px 35px;
+    color: white;
+    display: inline-block;
+  }
+  .mobile{
+    background-color: orangered;
+    border: 1px solid black;
+    border-radius: 10%;
+    box-sizing: border-box;
+    padding: 10px 35px;
+    color: white;
+    display: inline-block;
+  }
+
+  .website{
+    background-color: rgb(243, 100, 184);
+    border: 1px solid black;
+    border-radius: 10%;
+    box-sizing: border-box;
+    padding: 10px 35px;
+    color: white;
+    display: inline-block;
+  }
+  .newsales{
+    background-color: rgb(217, 255, 0);
+    border: 1px solid black;
+    border-radius: 10%;
+    box-sizing: border-box;
+    padding: 10px 35px;
+    color: white;
+    display: inline-block;
   }
 
   .quarter{
