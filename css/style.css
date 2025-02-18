@@ -21,6 +21,7 @@ header{
     border: 1px solid white;
     margin-left: 250px;
     margin-top: 60px;
+    
 
 }
 .firsttemplate{
@@ -31,6 +32,7 @@ header{
     padding: 10px 35px;
     color: white;
     
+    
 }
 .secondtemplate{background-color: white;
     border: 1px solid black;
@@ -40,3 +42,25 @@ header{
     color: grey;
     
 }
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin top: 20px;
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-top: 20px;
+  }
+
+  .Editorial{
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 10%;
+    box-sizing: border-box;
+    padding: 10px 35px;
+    color: white;
+    
+  }
