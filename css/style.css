@@ -11,36 +11,37 @@ header{
 .v-align-middle{
     vertical-align: middle;
 }
-.sfondogrigio{
+main{
     background-color: whitesmoke;
-    
+    width: 1700px;
+    height: 1000px;
 }
 
 .container {background-color: white;
-    width: 150px;
-    border: 1px solid white;
+    width: 400px;
+    border: 2px solid white;
     margin-left: 250px;
     margin-top: 60px;
-    
 
 }
-.firsttemplate{
+.bottone1{
     background-color: blue;
     border: 1px solid black;
     border-radius: 10%;
     box-sizing: border-box;
     padding: 10px 35px;
     color: white;
-    
+    display: inline-block
     
 }
-.secondtemplate{background-color: white;
+
+.bottone2 {background-color: white;
     border: 1px solid black;
     border-radius: 10%;
     box-sizing: border-box;
-    padding: 10px 35px;
+    padding: 10px 20px;
     color: grey;
-    
+    display: inline block;
 }
 .arrow {
     border: solid black;
@@ -62,5 +63,6 @@ header{
     box-sizing: border-box;
     padding: 10px 35px;
     color: white;
+    display: inline-block;
     
   }
